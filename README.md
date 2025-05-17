@@ -16,7 +16,7 @@
 ## Sobre mi
 
 - Estudiante de ingeniería Civil Informatica, apasionado al anime
-- Aprendiendo todo lo posible de mi dios llamado IA
+- Aprendiendo todo lo posible, de mi dios llamado chatGPT
 - Interesado en el tussi
 - Recomienden animes chat
 
