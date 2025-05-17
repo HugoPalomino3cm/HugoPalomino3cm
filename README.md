@@ -25,7 +25,7 @@
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pVei_v--hjGJZwI9nTxqKoxsdI6AJUBpfvLGaDEwBpjAQhVFWi91GEzS5x1ye81ep9I&usqp=CAU"width="300"/>
+  <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle-thumbnail.png"width="300"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"width="300"/>
 </p>
 
