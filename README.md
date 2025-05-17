@@ -11,6 +11,8 @@
 
 ###
 
+![Hugo Palomino](https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png)
+
 </div>
 
 | ![Hugo Palomino](https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png) |
