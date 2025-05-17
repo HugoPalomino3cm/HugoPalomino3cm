@@ -10,20 +10,7 @@
 |:--:|
 | **Hugo Palomino** |
 
-
----
-
-## 🛠️ Requisitos Previos
-
-- [Git](https://git-scm.com/) instalado.
-- Compilador **GCC**.
-- **PowerShell** (recomendado para Windows).
-- Sistema operativo: Windows, Linux o macOS.
-- [Visual Studio Code](https://code.visualstudio.com/) (recomendado).
-
----
-
-![GIF Externo](https://cdn.hashnode.com/res/hashnode/image/upload/v1666975601963/U7VvHXeDV.gif)
+![GIF Externo](https://media4.giphy.com/media/BaLggE7K8JBXa/giphy.gif?cid=6c09b952t5y6qvyirq1cwyfho3t7n0yakeukr31271nty69u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 
