@@ -1,3 +1,4 @@
+<h2 align="left">Hola chavales mi nombre es Hugo Palomino</h2>
 
 <table align="center">
   <tr>
@@ -6,7 +7,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Hugo Palomino</strong></td>
+    <td align="center"><strong>El prota</strong></td>
   </tr>
 </table>
 
