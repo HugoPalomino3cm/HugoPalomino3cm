@@ -12,23 +12,20 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mi
 
-- 💻 Estudiante de ingeniería apasionado por la programación.
-- 📚 Aprendiendo todo lo posible (¡y copiando lo que se pueda también!).
-- 🌐 Interesado en desarrollo web, inteligencia artificial y videojuegos.
-- 🧩 Me gusta resolver problemas y crear soluciones con creatividad.
+- Estudiante de ingeniería Civil apasionado al anime
+- Aprendiendo todo lo posible de mi dios llamado IA
+- Interesado en el tussi
+- Recomienden animes chat
 
 ---
 
-## 🔧 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!-- Agrega más tecnologías que uses -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pVei_v--hjGJZwI9nTxqKoxsdI6AJUBpfvLGaDEwBpjAQhVFWi91GEzS5x1ye81ep9I&usqp=CAU"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
 </p>
 
 ---
