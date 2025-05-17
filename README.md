@@ -75,14 +75,5 @@
   </a>
 </p>
 
----
-
-## 🧠 Mood actual:
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/BaLggE7K8JBXa/giphy.gif?cid=6c09b952t5y6qvyirq1cwyfho3t7n0yakeukr31271nty69u&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
-</p>
-
----
 
 <p align="center">💬 Siempre aprendiendo algo nuevo... o copiando lo viejo pero útil.</p>
