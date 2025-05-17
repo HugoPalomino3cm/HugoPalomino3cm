@@ -36,15 +36,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="URL_DE_SAKURASOU" width="200"/><br>
+      <img src="https://m.media-amazon.com/images/S/pv-target-images/761c73b19eadfe48d8792ad561f429f4e254eda903759dfbc20e1c03ffd9aa18.jpg" width="200"/><br>
       <strong>Sakurasou no Pet na Kanojo</strong>
     </td>
     <td align="center">
-      <img src="URL_DE_GOLDEN_TIME" width="200"/><br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ToEBdOOLiwhFeH7aNyH-IHOqygl2ScD-Psb1doLNbBchWoln_azJYfp6CXnxIwDg1Ak&usqp=CAU" width="200"/><br>
       <strong>Golden Time</strong>
     </td>
     <td align="center">
-      <img src="URL_DE_ERASED" width="200"/><br>
+      <img src="https://i.blogs.es/467d71/erased/1366_2000.jpeg" width="200"/><br>
       <strong>Erased</strong>
     </td>
   </tr>
