@@ -15,7 +15,7 @@
 
 ## Sobre mi
 
-- Estudiante de ingeniería Civil apasionado al anime
+- Estudiante de ingeniería Civil Informatica, apasionado al anime
 - Aprendiendo todo lo posible de mi dios llamado IA
 - Interesado en el tussi
 - Recomienden animes chat
