@@ -1,47 +1,73 @@
-<div align="center">
+<h1 align="center">👋 ¡Hola, soy Hugo Palomino!</h1>
+<p align="center">Estudiante, curioso del código y amante del copy-paste con estilo 😎</p>
 
-# 👾 El Prota: Hugo Palomino
-
-<img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-
-</div>
+<p align="center">
+  <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png" width="150" alt="Hugo Palomino" />
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Sobre mí
 
-| ![Hugo Palomino](https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png) |
-|:--:|
-| **Hugo Palomino** |
-
-</div>
-
----
-
-### 🧠 Sobre mí
-
-¡Hola! Soy Hugo, un entusiasta de la programación, amante de los memes de código y eterno aprendiz. Aquí verás un poco de lo que hago, lo que copio (😅) y lo que comparto.
+- 💻 Estudiante de ingeniería apasionado por la programación.
+- 📚 Aprendiendo todo lo posible (¡y copiando lo que se pueda también!).
+- 🌐 Interesado en desarrollo web, inteligencia artificial y videojuegos.
+- 🧩 Me gusta resolver problemas y crear soluciones con creatividad.
 
 ---
 
-### 🔗 Conectemos
+## 🔧 Tecnologías y herramientas
 
-<div align="left">
-
-[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://www.youtube.com/@TU_CANAL)  
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/TU_USUARIO)  
-[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/TU_USUARIO)  
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discordapp.com/users/TU_ID)  
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tucorreo@gmail.com)  
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/TU_USUARIO)  
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Agrega más tecnologías que uses -->
+</p>
 
 ---
 
-### 💻 Yo copiando todo el código posible
+## 📊 Stats de GitHub
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/BaLggE7K8JBXa/giphy.gif?cid=6c09b952t5y6qvyirq1cwyfho3t7n0yakeukr31271nty69u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif divertido" width="300"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" />
+</p>
+
+---
+
+## 🌐 Encuéntrame en redes
+
+<p align="left">
+  <a href="https://www.youtube.com/@TU_CANAL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.twitch.tv/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="https://discordapp.com/users/TU_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:tucorreo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Mood actual:
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/BaLggE7K8JBXa/giphy.gif?cid=6c09b952t5y6qvyirq1cwyfho3t7n0yakeukr31271nty69u&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" />
+</p>
+
+---
+
+<p align="center">💬 Siempre aprendiendo algo nuevo... o copiando lo viejo pero útil.</p>
