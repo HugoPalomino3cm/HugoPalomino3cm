@@ -1,9 +1,24 @@
-<h1 align="center">👋 ¡Hola, soy Hugo Palomino!</h1>
-<p align="center">Estudiante, curioso del código y amante del copy-paste con estilo 😎</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png" width="150" alt="Hugo Palomino" />
-</p>
+# 👾 El Prota: Hugo Palomino
+
+<img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+</div>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png?raw=true" width="250" alt="Hugo Palomino"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Hugo Palomino</strong></td>
+  </tr>
+</table>
 
 ---
 
