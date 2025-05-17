@@ -31,12 +31,24 @@
 
 ---
 
-## 📊 Stats de GitHub
+## 🍥 Animes que me marcaron
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="URL_DE_SAKURASOU" width="200"/><br>
+      <strong>Sakurasou no Pet na Kanojo</strong>
+    </td>
+    <td align="center">
+      <img src="URL_DE_GOLDEN_TIME" width="200"/><br>
+      <strong>Golden Time</strong>
+    </td>
+    <td align="center">
+      <img src="URL_DE_ERASED" width="200"/><br>
+      <strong>Erased</strong>
+    </td>
+  </tr>
+</table>
 
 ---
 
