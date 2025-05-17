@@ -1,4 +1,4 @@
-<h2 align="center">Hola chavales mi nombre es Hugo Palomino</h2>
+<h2 align="center">Mi nombre es Hugo Palomino</h2>
 
 <table align="center">
   <tr>
