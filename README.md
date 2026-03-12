@@ -50,7 +50,7 @@
 </table>
 
 
-## 🍥 Animes que me marcaron
+## Animes que me marcaron
 
 <table align="center">
   <tr>
