@@ -1,15 +1,25 @@
-<h2 align="center">Mi nombre es Hugo Palomino</h2>
+<div align="center">
+  <h2>Mi nombre es Hugo Palomino</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png?raw=true" width="250" alt="Hugo Palomino"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>El prota</strong></td>
-  </tr>
-</table>
+  <table border="1" style="border-collapse: collapse; border-color: #30363d; background-color: #0d1117; color: white;">
+    <tr>
+      <td width="80" height="300" align="center">
+        <img src="https://media.tenor.com/E61yvtjp5DQAAAAi/spongebob.gif" width="250" style="display: block;" alt="bob">
+      </td>
+      <td width="300" align="center">
+        <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png?raw=true" width="250" alt="Hugo Palomino"/>
+      </td>
+      <td width="80" align="center">
+        <img src="https://media1.tenor.com/m/Fjy9r3ZUhB0AAAAd/130-backpack-supreme-backpack-baby-larry-ai.gif" width="250" alt="mj">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center" style="padding: 10px; font-weight: bold;">
+        El prota
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
