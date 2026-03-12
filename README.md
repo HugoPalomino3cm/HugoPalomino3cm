@@ -1,21 +1,21 @@
 <div align="center">
   <h2>Mi nombre es Hugo Palomino</h2>
 
-  <table border="1" style="border-collapse: collapse; border-color: #30363d; background-color: #0d1117; color: white;">
+  <table border="1">
     <tr>
-      <td width="80" height="300" align="center">
-        <img src="https://media.tenor.com/E61yvtjp5DQAAAAi/spongebob.gif" width="250" style="display: block;" alt="bob">
+      <td align="center">
+        <img src="https://media1.tenor.com/m/bVvuxjWHkpoAAAAd/monkey-chill-monkey.gif" width="250" />
       </td>
-      <td width="300" align="center">
-        <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png?raw=true" width="250" alt="Hugo Palomino"/>
+      <td align="center">
+        <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png?raw=true" width="250" />
       </td>
-      <td width="80" align="center">
-        <img src="https://media1.tenor.com/m/Fjy9r3ZUhB0AAAAd/130-backpack-supreme-backpack-baby-larry-ai.gif" width="250" alt="mj">
+      <td align="center">
+        <img src="https://media1.tenor.com/m/hckrFLpu4XYAAAAC/azul-emoji.gif" width="250" />
       </td>
     </tr>
     <tr>
-      <td colspan="3" align="center" style="padding: 10px; font-weight: bold;">
-        El prota
+      <td colspan="3" align="center">
+        <b>El prota</b>
       </td>
     </tr>
   </table>
@@ -25,7 +25,7 @@
 
 ## Sobre mi
 
-- Estudiante de ingeniería Civil Informatica, apasionado al anime
+- Estudiante de Ingeniería Civil Informática (3.ᵉʳ año), apasionado al anime
 - Aprendiendo todo lo posible, de mi dios llamado chatGPT
 - Interesado en el tussi
 - Recomienden animes chat
