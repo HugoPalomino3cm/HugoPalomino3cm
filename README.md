@@ -30,15 +30,25 @@
 - Interesado en el tussi
 - Recomienden animes chat
 
----
 
-## Lenguajes en los que doy pena pero algo se hace :v
-<p align="center">
-  <img src="foto de c.png"width="378"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"width="175"/>
-</p>
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="foto de c.png" width="378"/><br />
+      <b>C</b>
+    </td>
+    <td align="center" width="200">
+      <img src="foto java.png" width="200"/><br />
+      <b>Java</b>
+    </td>
+    <td align="center" width="200">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="75"/><br />
+      <b>Python</b>
+    </td>
+  </tr>
+</table>
+
 
 ## 🍥 Animes que me marcaron
 
