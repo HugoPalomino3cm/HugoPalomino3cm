@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hugo Daniel Palomino Tordoya</h1>
-  <p><b>Estudiante de Ingeniería Civil Informática (3.ᵉʳ año) | PUCV</b></p>
+  <p><b>Estudiante de Ingeniería Civil Informática (3.ᵉʳ año)</b></p>
 
   <table border="0">
     <tr>
