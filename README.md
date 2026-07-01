@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Hugo Daniel Palomino Tordoya</h1>
   <p><b>Estudiante de Ingeniería Civil Informática (3.ᵉʳ año)</b></p>
@@ -5,7 +6,7 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github.com/HugoPalomino3cm/Tarea-2-Spotifind-/blob/d48628f1a78cbea3c8fe0ca7ac8cb5dbf44ae92a/fotoMia.png?raw=true" width="220" style="border-radius: 10px;" />
+        <img width="400" height="400" alt="fotodeperf" src="https://github.com/user-attachments/assets/a864adbb-1f59-4ebb-9266-5eb6427090f9" />
       </td>
     </tr>
   </table>
